@@ -93,6 +93,18 @@ These are real answers the chatbot produced using only the documents above:
 
 ---
 
+## 📸 Workflow Screenshots
+
+### Ingestion Pipeline
+![Ingestion Workflow](screenshots/ingestion-workflow.png)
+
+### RAG Chatbot
+![Chatbot Workflow](screenshots/chatbot-workflow.png)
+
+## 💬 Live Demo
+![Demo Answer 1](screenshots/demo-answer-1.png)
+![Demo Answer 2](screenshots/demo-answer-2.png)
+
 ## 🛠️ Tech Stack
 
 | Component | Tool |
